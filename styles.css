@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+}
+
+header, h1, article, footer {
+  border-bottom: 2px solid black;
+}
